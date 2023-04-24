@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PeterEnglish/results-summary-component)
-- Live Site URL: [Add live site URL here](https://peterenglish.github.io/results-summary-component/)
+- Solution URL: [https://github.com/PeterEnglish/results-summary-component/](https://github.com/PeterEnglish/results-summary-component)
+- Live Site URL: [https://peterenglish.github.io/results-summary-component/](https://peterenglish.github.io/results-summary-component/)
 
 ## My process
 
