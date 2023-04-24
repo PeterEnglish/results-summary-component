@@ -76,5 +76,5 @@ I also intend on using breakpoints more often, and using a 'mobile-first' approa
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/PeterEnglish)
+- Frontend Mentor - [@PeterEnglish](https://www.frontendmentor.io/profile/PeterEnglish)
 
